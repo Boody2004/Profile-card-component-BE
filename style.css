@@ -118,8 +118,11 @@ body,html {
     color: var(--dark-gray);
 }
 .attribution {
-    font-size: 11px; 
+    font-size: 20px; 
     text-align: center; 
+    color: var(--dark-blue);
+    background-color: var(--dark-cyan);
+
 }
 .attribution a {
     color: hsl(228, 45%, 44%); 
