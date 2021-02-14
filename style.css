@@ -120,8 +120,8 @@ body,html {
 .attribution {
     font-size: 20px; 
     text-align: center; 
-    color: var(--dark-blue);
-    background-color: var(--dark-cyan);
+    color: var(--dark-gray);
+    background-color: var(--dark-blue);
 
 }
 .attribution a {
