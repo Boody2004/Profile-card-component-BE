@@ -6,8 +6,9 @@
 **Thanks, Abdelrahman-BE**
 
 ---
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-(./design/desktop-preview.jpg)
+<!-- (./design/desktop-preview.jpg) -->
 <!-- # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
